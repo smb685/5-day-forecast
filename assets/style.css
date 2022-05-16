@@ -4,12 +4,11 @@
   @import url('https://fonts.googleapis.com/css?family=Metrophobic&display=swap');
   
   body {
-    background: lightskyblue;
+    background-color: lightskyblue;
     background-position: center center;
     background-repeat: repeat;
     background-attachment: fixed;
     height: 600px;
-    font-family: 'Metrophobic', sans-serif;
     background-position: top center !important;
     background-size: cover;
   }
@@ -74,7 +73,6 @@
     border-radius: 16px;
     box-shadow: 0 4px 30px rgba(141, 139, 139, 0.1);
     backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.884);
   }
   
