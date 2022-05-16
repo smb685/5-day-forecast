@@ -4,7 +4,7 @@
   @import url('https://fonts.googleapis.com/css?family=Metrophobic&display=swap');
   
   body {
-    background-image: url(/pictures/clear.gif);
+    background: url(/pictures/clear.gif);
     background-position: center center;
     background-repeat: repeat;
     background-attachment: fixed;
@@ -13,6 +13,7 @@
     background-position: top center !important;
     background-size: cover;
   }
+
   
   /* The navigation bar */
   .navbar {
