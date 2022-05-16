@@ -4,7 +4,7 @@
   @import url('https://fonts.googleapis.com/css?family=Metrophobic&display=swap');
   
   body {
-    background-image:url(/pictures/clear.gif);
+    background-color: lightskyblue;
     background-position: center center;
     background-repeat: repeat;
     background-attachment: fixed;
